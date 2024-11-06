@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="7efafa7feca512107f440b8782fb1038" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="ESS">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-05 19:27:10</sys_created_on>
+            <sys_id>fafafa7feca512107f440b8782fb1094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">7efafa7feca512107f440b8782fb1038</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-05 19:27:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-05 19:27:10</sys_created_on>
+            <sys_id>72fafa7feca512107f440b8782fb1095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">7efafa7feca512107f440b8782fb1038</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-05 19:27:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-05 19:27:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7efafa7feca512107f440b8782fb1038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c7d34a2bd16512107f449b59da5aee0a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">c7d34a2bd16512107f449b59da5aee0a</sys_scope>
+            <sys_update_name>sys_ui_section_7efafa7feca512107f440b8782fb1038</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-05 19:27:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">e2c79150612102107f445d198ce69d7a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">c7d34a2bd16512107f449b59da5aee0a</application>
+        <file_path/>
+        <instance_id>6573923ac3e11ad4d7299dcd2b01314e</instance_id>
+        <instance_name>tri-oct-4717-0014</instance_name>
+        <name>sys_ui_section_7efafa7feca512107f440b8782fb1038</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="7efafa7feca512107f440b8782fb1038" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="ESS"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-05 19:27:10</sys_created_on><sys_id>fafafa7feca512107f440b8782fb1094</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">7efafa7feca512107f440b8782fb1038</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-05 19:27:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes_list</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-05 19:27:10</sys_created_on><sys_id>72fafa7feca512107f440b8782fb1095</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">7efafa7feca512107f440b8782fb1038</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-05 19:27:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_cdltd_loaner_req_loaner_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-05 19:27:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7efafa7feca512107f440b8782fb1038</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req_loaner_request</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c7d34a2bd16512107f449b59da5aee0a</sys_package><sys_policy/><sys_scope display_value="Loaner Request">c7d34a2bd16512107f449b59da5aee0a</sys_scope><sys_update_name>sys_ui_section_7efafa7feca512107f440b8782fb1038</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-05 19:27:09</sys_updated_on><sys_user/><title>false</title><view display_value="Self Service" name="ess">e2c79150612102107f445d198ce69d7a</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>511384979</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>6a93926fd1e512107f449b59da5aeedb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 19:27:10</sys_created_on>
+        <sys_id>32fafa7feca512107f440b8782fb1097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192fdcb950f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 19:27:10</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b6fafa7fa4a51210afbe6517be2f2a96</update_guid>
+        <update_guid_history>b6fafa7fa4a51210afbe6517be2f2a96:511384979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 19:31:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>352a85f0cd2d49f6a29e889048f1f421</sys_id>
+        <sys_metadata>7efafa7feca512107f440b8782fb1038</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c7d34a2bd16512107f449b59da5aee0a</sys_package>
+        <sys_parent display_value="Loaner Request">4677ceefd1a512107f449b59da5aee9f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c7d34a2bd16512107f449b59da5aee0a</sys_scope>
+        <sys_scope_delete display_value="">14febc891b0c4403834b9366e079e689</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7efafa7feca512107f440b8782fb1038</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7efafa7feca512107f440b8782fb1038">32fafa7feca512107f440b8782fb1097</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 19:31:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
